@@ -59,7 +59,7 @@ KaedeeMC is a custom Minecraft server project focused on extreme performance tun
 
 - **The Challenge**: The server experienced CPU overload, memory leaks (out of RAM), and low TPS (Ticks Per Second dropping below 15), causing a poor player experience.
 - **My Solution**: 
-  - Developed custom Java plugins to manage resources efficiently: `smart chunkloader`, `chunkholder`, `mod spawn manage`, and `limit mobs spawn`.
+  - Developed custom Java plugins to manage resources efficiently: `smart chunkloader`, `chunkholder`, `mod spawn manager`, and `limit mobs spawn`.
   - Tuned configuration files extensively to balance entity processing and hardware constraints.
 - **The Results**:
   - ⚡ **Startup Time**: Reduced from **100 seconds down to 40 seconds**.
@@ -72,12 +72,12 @@ KaedeeMC is a custom Minecraft server project focused on extreme performance tun
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaedee206&show_icons=true&theme=radium&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaedee206&theme=radium&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kaedee206&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=kaedee206&theme=tokyonight" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaedee206&layout=compact&theme=radium&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kaedee206&layout=compact&theme=tokyonight" />
 </div>

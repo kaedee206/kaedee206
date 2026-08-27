@@ -1,23 +1,30 @@
 <div align="center">
-  <!-- Animated Waving Header with Galaxy Gradient & #E0FFFF Text -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:4b0082,100:000000&height=200&section=header&text=Hello%20World!%20I'm%20K&fontSize=42&fontColor=E0FFFF&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20System%20Optimization%20Enthusiast&descAlignY=55&descAlign=62&descSize=15" />
 </div>
 
 <div align="center">
-  <!-- Animated Typing Text (Galaxy Purple Theme) -->
   <a href="https://github.com/kaedee206">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=c084fc&center=true&vCenter=true&width=600&lines=A+Passionate+DevOps+Engineer+from+Vietnam+🇻🇳;Automating+Infrastructure+💻;Optimizing+System+Performance+⚡;Building+Reliable+CI%2FCD+Pipelines+🚀" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=c084fc&center=true&vCenter=true&width=600&lines=A+Passionate+DevOps+Engineer;Automating+Infrastructure;Optimizing+System+Performance;Building+Reliable+CI%2FCD+Pipelines" alt="Typing Animation" />
   </a>
 </div>
 
-<p align="center">
-  <a href="https://aboutme.kaedeemc.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-aboutme.kaedeemc.com-3b0764?style=for-the-badge&logo=google-chrome&logoColor=E0FFFF" alt="Website" />
-  </a>
-  <a href="mailto:nguyenthaitrunghieu123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nguyenthaitrunghieu123%40gmail.com-4b0082?style=for-the-badge&logo=gmail&logoColor=E0FFFF" alt="Email" />
-  </a>
-</p>
+<br>
+
+<div align="center">
+  <h3>
+    <a href="https://aboutme.kaedeemc.com" target="_blank" style="text-decoration: none;">
+      <img src="https://img.icons8.com/ios-filled/50/c084fc/internet.png" width="22" style="vertical-align: middle;"/> 
+      <b>aboutme.kaedeemc.com</b>
+    </a>
+    &nbsp;&nbsp; | &nbsp;&nbsp;
+    <a href="mailto:nguyenthaitrunghieu123@gmail.com" style="text-decoration: none;">
+      <img src="https://skillicons.dev/icons?i=gmail" width="22" style="vertical-align: middle;"/> 
+      <b>nguyenthaitrunghieu123@gmail.com</b>
+    </a>
+  </h3>
+</div>
+
+<br>
 
 ---
 
@@ -85,7 +92,7 @@
       <img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions" /><br>Actions
     </td>
     <td align="center" width="96">
-      <!-- Empty cell for alignment -->
+      
     </td>
   </tr>
 </table>
@@ -142,7 +149,6 @@ KaedeeMC is a custom Minecraft server project focused on extreme performance tun
 ### 🌌 GitHub Dashboard
 
 <div align="center">
-  <!-- Minimalist Stats with Transparent/Dark Galaxy Hex Colors -->
   <img src="https://github-readme-stats-fast.vercel.app/api?username=kaedee206&show_icons=true&hide_border=true&bg_color=0a0014&title_color=a855f7&text_color=E0FFFF&icon_color=c084fc" width="48%" />
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=kaedee206&hide_border=true&bg_color=0a0014&title_color=a855f7&text_color=E0FFFF&icon_color=c084fc" width="48%" />
 </div>
@@ -150,6 +156,5 @@ KaedeeMC is a custom Minecraft server project focused on extreme performance tun
 <br>
 
 <div align="center">
-  <!-- Top Languages matching the theme -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kaedee206&layout=compact&hide_border=true&bg_color=0a0014&title_color=a855f7&text_color=E0FFFF" width="50%" />
 </div>

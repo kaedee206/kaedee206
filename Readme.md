@@ -110,6 +110,9 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=notion" width="48" alt="Notion" /><br>Notion
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=discord" width="48" alt="Notion" /><br>Discord
+    </td>
   </tr>
 </table>
 

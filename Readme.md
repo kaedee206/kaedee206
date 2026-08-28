@@ -92,8 +92,6 @@
       <img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions" /><br>Actions
     </td>
     <td align="center" width="96">
-      
-    </td>
   </tr>
 </table>
 

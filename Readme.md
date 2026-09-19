@@ -139,7 +139,7 @@ KaedeeMC is a custom Minecraft server project focused on extreme performance tun
 | Metric | Real-time / Config Value |
 | :--- | :--- |
 | 🌐 **Server Address** | `play.kaedeemc.com` |
-| 👥 **Online Players** | ![Players](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcsrvstat.us%2F3%2Fplay.kaedeemc.com&query=players.online&label=&color=a855f7&style=flat-square) |
+| 👥 **Online Players** | `NOT AVAILABLE, SERVER HAS BEEN DISBALED DUE TO OUT OF MONEY` |
 | ⚙️ **Core Engine** | `PaperMC (Plugins)` |
 | 🎯 **Version** | `26.2` |
 

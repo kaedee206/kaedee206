@@ -92,6 +92,7 @@
       <img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions" /><br>Actions
     </td>
     <td align="center" width="96">
+    </td>
   </tr>
 </table>
 
@@ -111,10 +112,37 @@
       <img src="https://skillicons.dev/icons?i=notion" width="48" alt="Notion" /><br>Notion
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=discord" width="48" alt="Notion" /><br>Discord
+      <img src="https://skillicons.dev/icons?i=discord" width="48" alt="Discord" /><br>Discord
     </td>
   </tr>
 </table>
+
+---
+
+### 🚀 Featured Project: NoveraTech Careers
+
+**Internal Recruitment & Talent Management System**
+
+NoveraTech Careers là hệ thống quản lý tuyển dụng nội bộ toàn diện, chú trọng bảo mật đa lớp, hiệu năng backend tối ưu và kiến trúc triển khai chuẩn production.
+
+- **Kiến trúc & Công nghệ cốt lõi**:
+  - **Backend**: Xây dựng trên nền tảng **ASP.NET 9**, tối ưu hiệu năng xử lý tác vụ đồng thời và API.
+  - **Cơ sở dữ liệu**: Sử dụng **PostgreSQL** được lưu trữ và quản trị linh hoạt qua **Supabase**.
+  - **Reverse Proxy & Định tuyến**: Sử dụng **Nginx** làm reverse proxy tối ưu hoá luồng request.
+  - **Bảo mật & CDN**: Triển khai qua mạng lưới **Cloudflare** để bảo vệ trước các cuộc tấn công DDoS và quản lý SSL/DNS.
+  - **Xác thực danh tính**: Tích hợp giải pháp đăng nhập một lần an toàn thông qua **Authelia SSO**.
+
+<div align="center">
+
+| Metric / Layer | Details |
+| :--- | :--- |
+| 🌐 **Production URL** | [tuyendung.noveratech.digital](https://tuyendung.noveratech.digital) |
+| ⚡ **Backend Engine** | `ASP.NET 9` |
+| 🐘 **Database** | `PostgreSQL (Supabase)` |
+| 🛡️ **Reverse Proxy & Security** | `Nginx` + `Cloudflare` |
+| 🔐 **Authentication** | `Authelia SSO` |
+
+</div>
 
 ---
 
@@ -139,7 +167,7 @@ KaedeeMC is a custom Minecraft server project focused on extreme performance tun
 | Metric | Real-time / Config Value |
 | :--- | :--- |
 | 🌐 **Server Address** | `play.kaedeemc.com` |
-| 👥 **Online Players** | `NOT AVAILABLE, SERVER HAS BEEN DISBALED DUE TO OUT OF MONEY` |
+| 👥 **Online Players** | `NOT AVAILABLE` |
 | ⚙️ **Core Engine** | `PaperMC (Plugins)` |
 | 🎯 **Version** | `26.2` |
 
